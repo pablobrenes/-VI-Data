@@ -1,0 +1,362 @@
+[
+  {
+    "Mes": "Enero",
+    "Delito": "Asalto",
+    "Cantidad": 1384
+  },
+  {
+    "Mes": "Enero",
+    "Delito": "Homicidio",
+    "Cantidad": 67
+  },
+  {
+    "Mes": "Enero",
+    "Delito": "Hurto",
+    "Cantidad": 1466
+  },
+  {
+    "Mes": "Enero",
+    "Delito": "Robo",
+    "Cantidad": 1065
+  },
+  {
+    "Mes": "Enero",
+    "Delito": "Robo de vehículo",
+    "Cantidad": 456
+  },
+  {
+    "Mes": "Enero",
+    "Delito": "Tacha de vehículo",
+    "Cantidad": 534
+  },
+  {
+    "Mes": "Febrero",
+    "Delito": "Asalto",
+    "Cantidad": 1539
+  },
+  {
+    "Mes": "Febrero",
+    "Delito": "Homicidio",
+    "Cantidad": 50
+  },
+  {
+    "Mes": "Febrero",
+    "Delito": "Hurto",
+    "Cantidad": 1353
+  },
+  {
+    "Mes": "Febrero",
+    "Delito": "Robo",
+    "Cantidad": 1042
+  },
+  {
+    "Mes": "Febrero",
+    "Delito": "Robo de vehículo",
+    "Cantidad": 453
+  },
+  {
+    "Mes": "Febrero",
+    "Delito": "Tacha de vehículo",
+    "Cantidad": 456
+  },
+  {
+    "Mes": "Marzo",
+    "Delito": "Asalto",
+    "Cantidad": 1580
+  },
+  {
+    "Mes": "Marzo",
+    "Delito": "Homicidio",
+    "Cantidad": 53
+  },
+  {
+    "Mes": "Marzo",
+    "Delito": "Hurto",
+    "Cantidad": 1580
+  },
+  {
+    "Mes": "Marzo",
+    "Delito": "Robo",
+    "Cantidad": 1038
+  },
+  {
+    "Mes": "Marzo",
+    "Delito": "Robo de vehículo",
+    "Cantidad": 415
+  },
+  {
+    "Mes": "Marzo",
+    "Delito": "Tacha de vehículo",
+    "Cantidad": 503
+  },
+  {
+    "Mes": "Abril",
+    "Delito": "Asalto",
+    "Cantidad": 1505
+  },
+  {
+    "Mes": "Abril",
+    "Delito": "Homicidio",
+    "Cantidad": 56
+  },
+  {
+    "Mes": "Abril",
+    "Delito": "Hurto",
+    "Cantidad": 1510
+  },
+  {
+    "Mes": "Abril",
+    "Delito": "Robo",
+    "Cantidad": 1014
+  },
+  {
+    "Mes": "Abril",
+    "Delito": "Robo de vehículo",
+    "Cantidad": 450
+  },
+  {
+    "Mes": "Abril",
+    "Delito": "Tacha de vehículo",
+    "Cantidad": 547
+  },
+  {
+    "Mes": "Mayo",
+    "Delito": "Asalto",
+    "Cantidad": 1559
+  },
+  {
+    "Mes": "Mayo",
+    "Delito": "Homicidio",
+    "Cantidad": 64
+  },
+  {
+    "Mes": "Mayo",
+    "Delito": "Hurto",
+    "Cantidad": 1469
+  },
+  {
+    "Mes": "Mayo",
+    "Delito": "Robo",
+    "Cantidad": 1042
+  },
+  {
+    "Mes": "Mayo",
+    "Delito": "Robo de vehículo",
+    "Cantidad": 476
+  },
+  {
+    "Mes": "Mayo",
+    "Delito": "Tacha de vehículo",
+    "Cantidad": 468
+  },
+  {
+    "Mes": "Junio",
+    "Delito": "Asalto",
+    "Cantidad": 1458
+  },
+  {
+    "Mes": "Junio",
+    "Delito": "Homicidio",
+    "Cantidad": 49
+  },
+  {
+    "Mes": "Junio",
+    "Delito": "Hurto",
+    "Cantidad": 1555
+  },
+  {
+    "Mes": "Junio",
+    "Delito": "Robo",
+    "Cantidad": 1067
+  },
+  {
+    "Mes": "Junio",
+    "Delito": "Robo de vehículo",
+    "Cantidad": 396
+  },
+  {
+    "Mes": "Junio",
+    "Delito": "Tacha de vehículo",
+    "Cantidad": 544
+  },
+  {
+    "Mes": "Julio",
+    "Delito": "Asalto",
+    "Cantidad": 1663
+  },
+  {
+    "Mes": "Julio",
+    "Delito": "Homicidio",
+    "Cantidad": 56
+  },
+  {
+    "Mes": "Julio",
+    "Delito": "Hurto",
+    "Cantidad": 1522
+  },
+  {
+    "Mes": "Julio",
+    "Delito": "Robo",
+    "Cantidad": 1132
+  },
+  {
+    "Mes": "Julio",
+    "Delito": "Robo de vehículo",
+    "Cantidad": 423
+  },
+  {
+    "Mes": "Julio",
+    "Delito": "Tacha de vehículo",
+    "Cantidad": 485
+  },
+  {
+    "Mes": "Agosto",
+    "Delito": "Asalto",
+    "Cantidad": 1752
+  },
+  {
+    "Mes": "Agosto",
+    "Delito": "Homicidio",
+    "Cantidad": 50
+  },
+  {
+    "Mes": "Agosto",
+    "Delito": "Hurto",
+    "Cantidad": 1539
+  },
+  {
+    "Mes": "Agosto",
+    "Delito": "Robo",
+    "Cantidad": 1086
+  },
+  {
+    "Mes": "Agosto",
+    "Delito": "Robo de vehículo",
+    "Cantidad": 406
+  },
+  {
+    "Mes": "Agosto",
+    "Delito": "Tacha de vehículo",
+    "Cantidad": 506
+  },
+  {
+    "Mes": "Septiembre",
+    "Delito": "Asalto",
+    "Cantidad": 1862
+  },
+  {
+    "Mes": "Septiembre",
+    "Delito": "Homicidio",
+    "Cantidad": 50
+  },
+  {
+    "Mes": "Septiembre",
+    "Delito": "Hurto",
+    "Cantidad": 1368
+  },
+  {
+    "Mes": "Septiembre",
+    "Delito": "Robo",
+    "Cantidad": 1010
+  },
+  {
+    "Mes": "Septiembre",
+    "Delito": "Robo de vehículo",
+    "Cantidad": 434
+  },
+  {
+    "Mes": "Septiembre",
+    "Delito": "Tacha de vehículo",
+    "Cantidad": 445
+  },
+  {
+    "Mes": "Octubre",
+    "Delito": "Asalto",
+    "Cantidad": 1862
+  },
+  {
+    "Mes": "Octubre",
+    "Delito": "Homicidio",
+    "Cantidad": 46
+  },
+  {
+    "Mes": "Octubre",
+    "Delito": "Hurto",
+    "Cantidad": 1332
+  },
+  {
+    "Mes": "Octubre",
+    "Delito": "Robo",
+    "Cantidad": 1032
+  },
+  {
+    "Mes": "Octubre",
+    "Delito": "Robo de vehículo",
+    "Cantidad": 418
+  },
+  {
+    "Mes": "Octubre",
+    "Delito": "Tacha de vehículo",
+    "Cantidad": 403
+  },
+  {
+    "Mes": "Noviembre",
+    "Delito": "Asalto",
+    "Cantidad": 1720
+  },
+  {
+    "Mes": "Noviembre",
+    "Delito": "Homicidio",
+    "Cantidad": 53
+  },
+  {
+    "Mes": "Noviembre",
+    "Delito": "Hurto",
+    "Cantidad": 1386
+  },
+  {
+    "Mes": "Noviembre",
+    "Delito": "Robo",
+    "Cantidad": 1049
+  },
+  {
+    "Mes": "Noviembre",
+    "Delito": "Robo de vehículo",
+    "Cantidad": 407
+  },
+  {
+    "Mes": "Noviembre",
+    "Delito": "Tacha de vehículo",
+    "Cantidad": 452
+  },
+  {
+    "Mes": "Diciembre",
+    "Delito": "Asalto",
+    "Cantidad": 1467
+  },
+  {
+    "Mes": "Diciembre",
+    "Delito": "Homicidio",
+    "Cantidad": 47
+  },
+  {
+    "Mes": "Diciembre",
+    "Delito": "Hurto",
+    "Cantidad": 1486
+  },
+  {
+    "Mes": "Diciembre",
+    "Delito": "Robo",
+    "Cantidad": 990
+  },
+  {
+    "Mes": "Diciembre",
+    "Delito": "Robo de vehículo",
+    "Cantidad": 349
+  },
+  {
+    "Mes": "Diciembre",
+    "Delito": "Tacha de vehículo",
+    "Cantidad": 459
+  }
+]
